@@ -1,4 +1,4 @@
-# CKB Report/Learning Process
+# CKB Report/Learning Process Milestone
 
 Weekly reports for the [CKBuilders program](https://nervoscatalyst.org/community-keeps-building) (Nervos Community Catalyst, Builders' track).
 
