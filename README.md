@@ -2,9 +2,9 @@
 
 Weekly reports for the [CKBuilders program](https://nervoscatalyst.org/community-keeps-building) (Nervos Community Catalyst, Builders' track).
 
-**Builder:** mulhamna ([@mulhamna](https://github.com/mulhamna))
-**Cohort start:** August 2026
-**Reporting day:** every Wednesday
+* **Builder:** mulhamna ([@mulhamna](https://github.com/mulhamna))
+* **Cohort start:** August 2026
+* **Reporting day:** every Wednesday
 
 ## Reports
 
