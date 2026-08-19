@@ -10,20 +10,21 @@ Weekly reports for the [CKBuilders program](https://nervoscatalyst.org/community
 
 | Week | Ending | Report |
 |------|--------|--------|
-| 1 | Aug 12, 2026 | [w1r.md](w1r.md) |
+| 1 | Aug 12, 2026 | [w1r.md](report/w1r.md) |
+| 2 | Aug 19, 2026 | [w2r.md](report/w2r.md) |
 
 ## Progress checklist
 
 ### Introduction
-- [x] OffCKB dev environment + local devnet
-- [x] Deploy first test contract (hello-world)
-- [x] Introduction to Nervos CKB (concepts & terminology)
-- [x] CKB Academy lessons 1–2
-- [x] Introduction to Script
+- [x] OffCKB dev environment + local devnet -> Report on [w1r.md](report/w1r.md)
+- [x] Deploy first test contract (hello-world) -> Report on [w1r.md](report/w1r.md)
+- [x] Introduction to Nervos CKB (concepts & terminology) -> Report on [w1r.md](report/w1r.md)
+- [x] CKB Academy lessons 1–2 -> Report on [w1r.md](report/w1r.md)
+- [x] Introduction to Script -> Report on [w1r.md](report/w1r.md)
 
 ### Beginner exercises
-- [ ] Transfer CKB
-- [ ] Store data on a Cell
+- [x] Transfer CKB -> Report on [w2r.md](report/w2r.md)
+- [x] Store data on a Cell -> Report on [w2r.md](report/w2r.md)
 - [ ] Create a fungible token
 - [ ] Create a DOB (digital object)
 - [ ] Build a simple lock
