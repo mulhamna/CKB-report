@@ -12,6 +12,7 @@ Weekly reports for the [CKBuilders program](https://nervoscatalyst.org/community
 |------|--------|--------|
 | 1 | Aug 12, 2026 | [w1r.md](report/w1r.md) |
 | 2 | Aug 19, 2026 | [w2r.md](report/w2r.md) |
+| 3 | Aug 26, 2026 | [w3r.md](report/w3r.md) |
 
 ## Progress checklist
 
@@ -25,8 +26,8 @@ Weekly reports for the [CKBuilders program](https://nervoscatalyst.org/community
 ### Beginner exercises
 - [x] Transfer CKB -> Report on [w2r.md](report/w2r.md)
 - [x] Store data on a Cell -> Report on [w2r.md](report/w2r.md)
-- [ ] Create a fungible token
-- [ ] Create a DOB (digital object)
+- [x] Create a fungible token -> Report on [w3r.md](report/w3r.md)
+- [x] Create a DOB (digital object) -> Report on [w3r.md](report/w3r.md)
 - [ ] Build a simple lock
 
 ### Intermediate
