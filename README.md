@@ -33,7 +33,7 @@ Weekly reports for the [CKBuilders program](https://nervoscatalyst.org/community
 - [x] Build a simple lock -> Report on [w4r.md](report/w4r.md)
 
 ### Intermediate
-- [x] Script development course (10 classes, materi udah direstruktur ke docs/script/js) -> Report on [w5r.md](report/w5r.md)
+- [x] Script development course (10 classes, content now restructured under docs/script/js) -> Report on [w5r.md](report/w5r.md)
 - [ ] sUDT standard
 - [ ] Nervos DAO
 - [ ] Spore Protocol / DOBs
