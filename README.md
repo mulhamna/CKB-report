@@ -16,6 +16,7 @@ Weekly reports for the [CKBuilders program](https://nervoscatalyst.org/community
 | 4 | Sep 02, 2026 | [w4r.md](report/w4r.md) |
 | 5 | Sep 09, 2026 | [w5r.md](report/w5r.md) |
 | 6 | Sep 16, 2026 | [w6r.md](report/w6r.md) |
+| 7 | Sep 23, 2026 | [w7r.md](report/w7r.md) |
 
 ## Progress checklist
 
@@ -35,7 +36,7 @@ Weekly reports for the [CKBuilders program](https://nervoscatalyst.org/community
 
 ### Intermediate
 - [x] Script development course (10 classes, content now restructured under docs/script/js and docs/script/rust) -> Report on [w5r.md](report/w5r.md), [w6r.md](report/w6r.md)
-- [ ] sUDT standard
+- [x] sUDT standard -> Report on [w7r.md](report/w7r.md)
 - [ ] Nervos DAO
 - [ ] Spore Protocol / DOBs
 
