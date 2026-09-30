@@ -37,8 +37,8 @@ Weekly reports for the [CKBuilders program](https://nervoscatalyst.org/community
 ### Intermediate
 - [x] Script development course (10 classes, content now restructured under docs/script/js and docs/script/rust) -> Report on [w5r.md](report/w5r.md), [w6r.md](report/w6r.md)
 - [x] sUDT standard -> Report on [w7r.md](report/w7r.md)
-- [ ] Nervos DAO
-- [ ] Spore Protocol / DOBs
+- [x] Nervos DAO (deposit done; phase-1 withdraw blocked on a ckb-cli bug, see nervosnetwork/ckb-cli#685) -> Report on [w8r.md](report/w8r.md)
+- [x] Spore Protocol / DOBs -> Report on [w8r.md](report/w8r.md)
 
 ### Advanced / Capstone
 - [ ] SSRI / RGB++ / xUDT (as relevant)
