@@ -17,6 +17,7 @@ Weekly reports for the [CKBuilders program](https://nervoscatalyst.org/community
 | 5 | Sep 09, 2026 | [w5r.md](report/w5r.md) |
 | 6 | Sep 16, 2026 | [w6r.md](report/w6r.md) |
 | 7 | Sep 23, 2026 | [w7r.md](report/w7r.md) |
+| 8 | Sep 30, 2026 | [w8r.md](report/w8r.md) |
 
 ## Progress checklist
 
