@@ -419,7 +419,7 @@ cargo install --git https://github.com/nervosnetwork/ckb-cli.git --tag v2.0.0 ck
    Compiling hyper v0.14.32
    Compiling radix_trie v0.2.1
    Compiling proc-macro-crate v0.1.5
-   Compiling ckb-cli v2.0.0 (/Users/telkom/.cargo/git/checkouts/ckb-cli-490787d2c61ea46c/80efc21)
+   Compiling ckb-cli v2.0.0 (/-/.cargo/git/checkouts/ckb-cli-490787d2c61ea46c/80efc21)
    Compiling net2 v0.2.39
    Compiling termion v1.5.6
    Compiling scrypt v0.2.0
@@ -457,7 +457,7 @@ cargo install --git https://github.com/nervosnetwork/ckb-cli.git --tag v2.0.0 ck
    Compiling jsonrpc-core-client v18.0.0
    Compiling jsonrpc-http-server v18.0.0
    Compiling jsonrpc-derive v18.0.0
-   Compiling ckb-cli-plugin-protocol v1.3.1 (/Users/telkom/.cargo/git/checkouts/ckb-cli-490787d2c61ea46c/80efc21/plugin-protocol)
+   Compiling ckb-cli-plugin-protocol v1.3.1 (/-/.cargo/git/checkouts/ckb-cli-490787d2c61ea46c/80efc21/plugin-protocol)
    Compiling ipnetwork v0.14.0
    Compiling rustyline-derive v0.10.0
    Compiling dirs v1.0.5
@@ -465,7 +465,7 @@ cargo install --git https://github.com/nervosnetwork/ckb-cli.git --tag v2.0.0 ck
    Compiling ansi_term v0.11.0
    Compiling dtoa v0.4.8
    Compiling shell-words v0.1.0
-   Compiling ckb-signer v0.4.1 (/Users/telkom/.cargo/git/checkouts/ckb-cli-490787d2c61ea46c/80efc21/ckb-signer)
+   Compiling ckb-signer v0.4.1 (/-/.cargo/git/checkouts/ckb-cli-490787d2c61ea46c/80efc21/ckb-signer)
 warning: use of deprecated macro `serde::serde_if_integer128`:
          This macro has no effect on any version of Serde released in the past 2 years.
          It was used long ago in crates that needed to support Rustc older than 1.26.0,
