@@ -19,6 +19,7 @@ Weekly reports for the [CKBuilders program](https://nervoscatalyst.org/community
 | 7 | Sep 23, 2026 | [w7r.md](report/w7r.md) |
 | 8 | Sep 30, 2026 | [w8r.md](report/w8r.md) |
 | 9 | Oct 09, 2026 | [w9r.md](report/w9r.md) |
+| 10 | Oct 15, 2026 | [w10r.md](report/w10r.md) |
 
 ## Progress checklist
 
@@ -44,4 +45,7 @@ Weekly reports for the [CKBuilders program](https://nervoscatalyst.org/community
 
 ### Advanced / Capstone
 - [x] SSRI / RGB++ / xUDT (as relevant) -> Report on [w9r.md](report/w9r.md)
-- [ ] Capstone project (discussed with Neon)
+- [ ] Capstone project (discussed with Neon) — `@fiber-pay/react-native`, fork + PR to RetricSu/fiber-pay
+  - [x] Milestone 1: package scaffold + connect to remote node -> Report on [w10r.md](report/w10r.md)
+  - [ ] Milestone 2: payment/invoice hooks
+  - [ ] Milestone 3: integrate into khie-mobile + open PR upstream
